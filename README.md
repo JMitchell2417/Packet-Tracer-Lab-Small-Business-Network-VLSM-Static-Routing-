@@ -1,6 +1,6 @@
 # Packet Tracer Lab: Small Business Network (VLSM + Static Routing)
 
-<img src="./images/network\_\_screenshot.jpg" width:"600" alt="Network Screenshot">
+<img src="/images/network__screenshot.jpg" alt="Network Screenhot" width="600"/>
 
 ### Project Description
 
